@@ -1,4 +1,4 @@
-<h1>Akinator Styled Disease Predictor</h1>
+<h1>Interactive Disease Diagnosis via Naive Bayes and Entropy-Based Querying</h1>
 <p>
   This project aims to develop a disease predictor based on user-reported symptoms. The system utilizes Naive Bayes classification, 
   and information gain for selecting which symptom to ask for next. By asking the most informative question, we can reduce the number 
